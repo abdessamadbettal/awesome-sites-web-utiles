@@ -10,12 +10,17 @@ Fini les sites qui imposent une inscription ou un abonnement. Retrouvez ici des 
 ---
 
 ## 📑 Sommaire
-- [💻 Outils pour Développeurs & Webmasters](#-développeurs--webmasters)
-- [💼 Carrière & Business (Freelaçing)](#-carrière--business)
-- [🎨 Design & Création Graphique](#-design--création-graphique)
-- [✍️ Rédaction & Typographie](#-rédaction--typographie)
-- [🤖 Intelligence Artificielle](#-intelligence-artificielle)
-- [🔍 SEO & Analyse](#-seo--analyse)
+- [🚀 Awesome Sites Web Utiles](#-awesome-sites-web-utiles)
+  - [📑 Sommaire](#-sommaire)
+  - [💻 Développeurs \& Webmasters](#-développeurs--webmasters)
+  - [💼 Carrière \& Business](#-carrière--business)
+  - [🎨 Design \& Création Graphique](#-design--création-graphique)
+  - [✍️ Rédaction \& Typographie](#️-rédaction--typographie)
+  - [🤖 Intelligence Artificielle](#-intelligence-artificielle)
+  - [🔍 SEO \& Analyse](#-seo--analyse)
+  - [🔗 Voir aussi](#-voir-aussi)
+  - [🤝 Contribution](#-contribution)
+  - [📄 Licence](#-licence)
 
 ---
 
@@ -23,7 +28,7 @@ Fini les sites qui imposent une inscription ou un abonnement. Retrouvez ici des 
 *Générateurs, debuggers et outils d'optimisation.*
 
 * **[Codeshot.io](https://codeshot.io/)** — Générateur de **code en image**. Transformez vos snippets de code, logs ou sessions terminal en images haute résolution. Parfait pour les articles tech, sans watermark.
-* **[Slugme.io](https://slugme.io/)** — Générateur de **URL slugs SEO-friendly**. Transformez n'importe quel titre en URL propre, optimisée pour le référencement, instantanément dans votre navigateur.
+* **[Slugme.io](https://slugme.io/)** — Générateur de **URL slugs SEO-friendly**. Transformez n'importe quel titre en URL propre, optimisée pour le référencement, instantanément dans votre navigateur. Pour la théorie derrière ces URLs, voir **[SEO de Zéro à Expert](https://github.com/abdessamadbettal/seo-de-zero-a-expert)**.
 * **[JSON Formatter](https://jsonformatter.org/)** — Formater, valider et embellir vos données JSON en toute sécurité.
 * **[Transform.tools](https://transform.tools/)** — L'outil indispensable pour convertir divers formats de code.
 * **[Can I Use](https://caniuse.com/)** — Référence incontournable pour la compatibilité des navigateurs.
@@ -73,6 +78,13 @@ Fini les sites qui imposent une inscription ou un abonnement. Retrouvez ici des 
 * **[Google Search Console](https://search.google.com/search-console/)**
 * **[PageSpeed Insights](https://pagespeed.web.dev/)** — Optimisation des performances web.
 * **[Meta Tags](https://metatags.io/)** — Générateur de previews pour réseaux sociaux (Open Graph).
+
+---
+
+## 🔗 Voir aussi
+
+* [Awesome Free Tools](https://github.com/abdessamadbettal/awesome-free-tools) — Version anglaise et plus étendue de cette liste.
+* [Awesome Arabic Tools](https://github.com/abdessamadbettal/awesome-arabic-tools) — Liste spécialisée pour le web arabophone.
 
 ---
 
