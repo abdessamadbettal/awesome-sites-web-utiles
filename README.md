@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-Une collection ultra-curatée des meilleurs **outils gratuits**, sites web utiles, générateurs en ligne et ressources indispensables pour les développeurs, designers, créateurs, marketers et freelances.
+Une collection ultra-curatée  des meilleurs **outils gratuits**, sites web utiles, générateurs en ligne et ressources indispensables pour les développeurs, designers, créateurs, marketers et freelances.
 
 Fini les sites qui imposent une inscription ou un abonnement. Retrouvez ici des solutions **100% gratuites**, rapides et efficaces, souvent utilisables directement dans votre navigateur.
 
