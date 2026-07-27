@@ -31,6 +31,7 @@ Fini les sites qui imposent une inscription ou un abonnement. Retrouvez ici des 
 * **[Slugme.io](https://slugme.io/)** — Générateur de **URL slugs SEO-friendly**. Transformez n'importe quel titre en URL propre, optimisée pour le référencement, instantanément dans votre navigateur. Pour la théorie derrière ces URLs, voir **[SEO de Zéro à Expert](https://github.com/abdessamadbettal/seo-de-zero-a-expert)**.
 * **[JSON Formatter](https://jsonformatter.org/)** — Formater, valider et embellir vos données JSON en toute sécurité.
 * **[Transform.tools](https://transform.tools/)** — L'outil indispensable pour convertir divers formats de code.
+* **[gottrix](https://gottrix.app/)** — Plus de 500 outils pour convertir et manipuler PDF, images, audio, vidéo et fichiers 3D, 100 % côté client : aucun fichier envoyé sur un serveur, tout se passe dans le navigateur (WebAssembly), même hors ligne après la première visite. Gratuit, sans inscription, en plus de 25 langues.
 * **[Can I Use](https://caniuse.com/)** — Référence incontournable pour la compatibilité des navigateurs.
 
 ---
