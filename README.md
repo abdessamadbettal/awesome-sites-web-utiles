@@ -32,6 +32,7 @@ Fini les sites qui imposent une inscription ou un abonnement. Retrouvez ici des 
 * **[JSON Formatter](https://jsonformatter.org/)** — Formater, valider et embellir vos données JSON en toute sécurité.
 * **[Transform.tools](https://transform.tools/)** — L'outil indispensable pour convertir divers formats de code.
 * **[Can I Use](https://caniuse.com/)** — Référence incontournable pour la compatibilité des navigateurs.
+* **[A Box of Tools](https://abox.tools/fr/)** — Boîte de 35 **outils de fichiers** : compresser une image à une taille exacte, fusionner ou caviarder un PDF, découper une vidéo, couper un audio, lire un QR code, formater du JSON. Tout s'exécute **côté client** — aucun fichier n'est envoyé, aucun compte, et chaque outil fonctionne hors ligne. Open source (MIT), interface en français.
 
 ---
 
