@@ -69,6 +69,7 @@ Fini les sites qui imposent une inscription ou un abonnement. Retrouvez ici des 
 * **[ChatGPT](https://chat.openai.com/)** | **[Claude](https://claude.ai/)** | **[Perplexity](https://www.perplexity.ai/)**
 * **[v0.dev](https://v0.dev/)** — Génération d'interfaces UI via prompt.
 * **[NotebookLM](https://notebooklm.google.com/)** — Analyse intelligente de documents.
+* **[GetAskAI](https://getaskai.com/fr)** - Assistant IA **sans inscription** : ses réponses sur l'actualité renvoient vers leurs sources, et il sait aussi lire un PDF ou une photo. Gratuit grâce à la publicité.
 
 ---
 
